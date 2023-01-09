@@ -77,7 +77,3 @@ If a short link that has a password is accessed, the person will be redirected t
 
 ### 🔑 Where is the password authenticated? 
 <a> The password entered by the user is sent to the cloud for authentication, so it is guaranteed that it will not be possible to edit the page to bypass the authentication system. </a>
-
-## 📣 SDK of API
-We are developing SDK for python, ruby, javascript, rust in order to facilitate the use of the api without the need and use request directly.
-warning: even after the release of the SDK it will still be possible to make requests directly.
