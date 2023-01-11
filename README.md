@@ -76,4 +76,3 @@ API return a json with the shortened link and the information that was recorded 
 If a short link that has a password is accessed, the person will be redirected to the authentication page.
 
 ### 🔑 Where is the password authenticated? 
-<a> The password entered by the user is sent to the cloud for authentication, so it is guaranteed that it will not be possible to edit the page to bypass
