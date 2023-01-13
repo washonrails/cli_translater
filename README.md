@@ -75,4 +75,3 @@ API return a json with the shortened link and the information that was recorded 
 ## 🔒 Password check
 If a short link that has a password is accessed, the person will be redirected to the authentication page.
 
-### 🔑 Where is the password authenticated? 
