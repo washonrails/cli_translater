@@ -39,5 +39,6 @@ API return a json with the translated text
 - French
 - Russian
 - Japanese
+- Italian
 
 </details>
